@@ -6,4 +6,5 @@ bilstm: https://drive.google.com/file/d/1RN3MHI2qaZZjdIJ3tBkMX7yHC5KYyIyP/view?u
 dbert: https://drive.google.com/file/d/1Z8NClSz22dYyohTzQ2i03B5TxVgp32I1/view?usp=sharing
 Accuracy acquired: 
 Bidirectional LSTM (2 layers) : 32%
-DistilBERT : 49 5
+DistilBERT : 38%
+BERT : 40%
